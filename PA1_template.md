@@ -78,7 +78,7 @@ NAPerVariable(activity)
 ##     2304        0        0
 ```
 
-Impute using the mean for that interval
+We will impute missing data using the mean steps for each interval:
 
 
 ```r
